@@ -1,0 +1,3 @@
+# Ghostbusters
+
+Go MCP
